@@ -5,7 +5,7 @@ debugger
 
 function init() {
 
-// alert('usuario: wendy@gmail.com  password: 123456');
+// alert('usuario: america@gmail.com  password: 123456');
 
 btnlogIn.on('click', (event) => {  
     event.preventDefault();
