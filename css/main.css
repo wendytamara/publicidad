@@ -1,0 +1,49 @@
+
+nav {
+    padding: 0px 40px;
+    background-color: #FF5000;
+  }
+  
+  nav .logo {
+    width: 200px;
+    vertical-align: middle;
+  }
+
+  
+.boxLogin {
+    padding: 25px 5px !important;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 1px 2px rgba(0, 0, 0, 0.24);
+    z-index: 676;
+    background-color: aliceblue;
+  }
+  
+  .logoUsers {
+    width: 100px;
+  }
+  
+  .containerComponentLogin {
+    padding: 150px 50px !important;
+  }
+  
+  .btn {
+    background-color: #FF5000 !important;
+  }
+  
+  .bg-img {
+    background-image: url("http://veroneseproducciones.com/producciones/wp-content/uploads/2014/12/tv-sets.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+  }
+  
+  
+  .containerPublicidad span {
+    z-index: 8787;
+    background-color: white;
+    color: #FF5000;
+    font-size: 38px;
+    font-weight: 700;
+  }
